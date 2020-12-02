@@ -1,7 +1,10 @@
 package co.in.model;
 
 import com.google.common.collect.Lists;
-import lombok.*;
+import lombok.AllArgsConstructor;
+import lombok.EqualsAndHashCode;
+import lombok.Getter;
+import lombok.ToString;
 
 import java.math.BigDecimal;
 import java.util.Arrays;

@@ -1,12 +1,9 @@
 package co.in.model;
 
-import co.in.GalaxyMerchant;
 import com.google.common.collect.ImmutableList;
 import com.google.common.collect.Lists;
-import org.junit.Ignore;
-import org.junit.Test;
-
 import org.junit.Before;
+import org.junit.Test;
 
 import java.math.BigDecimal;
 import java.util.List;

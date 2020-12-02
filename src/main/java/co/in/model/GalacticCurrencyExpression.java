@@ -2,18 +2,12 @@ package co.in.model;
 
 import com.google.common.collect.ImmutableList;
 import com.google.common.collect.Lists;
-import jdk.nashorn.internal.ir.annotations.Immutable;
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
 
-import javax.naming.BinaryRefAddr;
 import java.util.Collections;
 import java.util.List;
-import java.util.function.BinaryOperator;
 import java.util.stream.Collectors;
-import java.util.stream.IntStream;
-
-import static java.util.stream.Collectors.toList;
 
 /**
  * Created by s.sreenivasan on 2/6/2016.
